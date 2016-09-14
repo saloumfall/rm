@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/saloum/projets/mobile/relax-mobile/www/components/login/login.module.js",
+        "C:/Users/saloum/projets/mobile/relax-mobile/www/components/login/loginCtrl.js",
+        "C:/Users/saloum/projets/mobile/relax-mobile/www/core/constant.js",
+        "C:/Users/saloum/projets/mobile/relax-mobile/www/core/config.js",
+        "C:/Users/saloum/projets/mobile/relax-mobile/www/common-services/common-service.module.js"
+    ]
+}
